@@ -14,10 +14,16 @@ Will output the mathematical representation of the contents of FileName.mp
 
 ## Substitutions
 _x -> 𝐗 
-Bold, mainly for Vectors
+
 int -> ∫
+
 integral -> ∫
+
 phi -> ϕ
+
 theta -> θ 
+
 rho -> ρ
+
 omega -> ω 
+
