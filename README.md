@@ -1,18 +1,18 @@
-#MParse
+# MParse
 
 Quick and dirty mathematical parser, in Unicode Plain Text
 
-##Command Syntax
+## Command Syntax
 
 `python3 MParse.py FileName.mp`
 
 Will output the mathematical representation of the contents of FileName.mp
 
 
-##Input Examples
+## Input Examples
 `int _a dt = _v + C` will produce  `∫𝐀 dt = 𝐕 + C`
 
-##Substitutions
+## Substitutions
 _x -> 𝐗 
 Bold, mainly for Vectors
 int -> ∫
